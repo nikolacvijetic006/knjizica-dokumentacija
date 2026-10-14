@@ -8,3 +8,4 @@
 -Član može pretražiti knjige po naslovu
 -Član mora biti pažljiv u pretraživanju knjiga
 -Član mora da vodi računa o upisivanju 
+-Ne pisati nešto što nije u vezi književnosti
