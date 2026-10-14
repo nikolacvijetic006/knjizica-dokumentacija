@@ -4,3 +4,7 @@
 -(Aleksa)
 -(Nikola)
 -(Pavle)
+##Osnovni zahtjevi
+-Član može pretražiti knjige po naslovu
+-Član mora biti pažljiv u pretraživanju knjiga
+-Član mora da vodi računa o upisivanju 
